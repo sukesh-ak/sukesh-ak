@@ -12,8 +12,6 @@ I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now swim
 	- Last but not least, VFX, MoCap and 3D Modeling using Blender
 - 📫 How to reach me: https://www.sukesh.me
 
-![Sukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh-ak&show_icons=true&theme=transparent&count_private=true&card_width=400)
+![Sukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh-ak&show_icons=true&theme=transparent&count_private=true&card_width=400) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh-ak&layout=compact&theme=transparent&card_width=350)](https://www.sukesh.me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh-ak&layout=compact&theme=transparent&card_width=350)](https://www.sukesh.me)
-
-[![ESP32-TUX](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=esp32-tux&theme=transparent&card_width=350)](https://github.com/sukesh-ak/esp32-tux)
+[![Windows Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Windows-Sandbox-with-VSCODE&theme=transparent&card_width=350)](https://github.com/sukesh-ak/Windows-Sandbox-with-VSCODE) [![DroidBackup](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=DroidBackup&theme=transparent&card_width=350)](https://github.com/sukesh-ak/DroidBackup)
