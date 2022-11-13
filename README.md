@@ -14,4 +14,7 @@ I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now swim
 
 ![Sukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh-ak&show_icons=true&theme=transparent&count_private=true&card_width=400) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh-ak&layout=compact&theme=transparent&card_width=350)](https://www.sukesh.me)
 
-[![Windows Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Windows-Sandbox-with-VSCODE&theme=transparent&card_width=350)](https://github.com/sukesh-ak/Windows-Sandbox-with-VSCODE) [![DroidBackup](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=DroidBackup&theme=transparent&card_width=350)](https://github.com/sukesh-ak/DroidBackup)
+[![LVGL with Linux Framebuffer](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Linux-LVGL-Frame-Buffer&theme=transparent&card_width=350)](https://github.com/sukesh-ak/Linux-LVGL-Frame-Buffer) [![Windows Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Windows-Sandbox-with-VSCODE&theme=transparent&card_width=350)](https://github.com/sukesh-ak/Windows-Sandbox-with-VSCODE) 
+
+[![DroidBackup](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=DroidBackup&theme=transparent&card_width=350)](https://github.com/sukesh-ak/DroidBackup)
+[![Python Server with SSL](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=pythonwsssl&theme=transparent&card_width=350)](https://github.com/sukesh-ak/pythonwsssl)
