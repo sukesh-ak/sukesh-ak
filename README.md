@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now swimming through Linux world, digging through IoT & Azure Architecture. Always excited to drown myself in the world of Cyber Security. Special interest in Digital Forensics.
+I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now digging the Linux world, IoT & Azure Architecture. Always excited to drown myself in the world of Cyber Security and UX Designs. Special interest in Digital Forensics.
 
 - 🔭 Currently working on 
   - Digital Forensics for Android/iOS 
