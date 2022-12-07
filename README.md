@@ -14,7 +14,7 @@ I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now digg
 
 [![Sukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh-ak&show_icons=true&theme=dark&count_private=true&card_width=400)](https://www.sukesh.me) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh-ak&layout=compact&theme=dark&card_width=350)](https://www.sukesh.me)
 
-[![LVGL with Linux Framebuffer](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Linux-LVGL-Frame-Buffer&theme=chartreuse-dark&card_width=350)](https://github.com/sukesh-ak/Linux-LVGL-Frame-Buffer) [![Windows Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Windows-Sandbox-with-VSCODE&theme=chartreuse-dark&card_width=350)](https://github.com/sukesh-ak/Windows-Sandbox-with-VSCODE) 
+[![LVGL with Linux Framebuffer](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Linux-LVGL-Frame-Buffer&theme=dark&card_width=350)](https://github.com/sukesh-ak/Linux-LVGL-Frame-Buffer) [![Windows Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=Windows-Sandbox-with-VSCODE&theme=dark&card_width=350)](https://github.com/sukesh-ak/Windows-Sandbox-with-VSCODE) 
 
-[![DroidBackup](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=DroidBackup&theme=chartreuse-dark&card_width=350)](https://github.com/sukesh-ak/DroidBackup)
-[![Python Server with SSL](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=pythonwsssl&theme=chartreuse-dark&card_width=350)](https://github.com/sukesh-ak/pythonwsssl)
+[![DroidBackup](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=DroidBackup&theme=dark&card_width=350)](https://github.com/sukesh-ak/DroidBackup)
+[![Python Server with SSL](https://github-readme-stats.vercel.app/api/pin/?username=sukesh-ak&repo=pythonwsssl&theme=dark&card_width=350)](https://github.com/sukesh-ak/pythonwsssl)
