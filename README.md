@@ -15,9 +15,11 @@ I'm a Born Geek... expertise in Microsoft software stack (Ex-MSFTE) and now digg
 ### PROJECT HIGHLIGHTS
 
 
-| Project   | Description  | Repo 
+| Project Name   | Description  | Link 
 |:---------  |:-----------|:----------:
 |ESP32-TUX|ESP32-TUX - ESP32 / ESP32-XX Touch UX Template using LVGL to get you started|[Github](https://github.com/sukesh-ak/ESP32-TUX)
+|ImGui-GLFW-OpenGL3|Dear ImGui with GLFW + OpenGL3 with cmake + vcpkg|[Github](https://github.com/sukesh-ak/ImGui-GLFW-OpenGL3)
+|AutoDebug|Debugger to run Windbg Commands and also query .NET CLR Runtime data in C#|[Github](https://github.com/sukesh-ak/AutoDebug)
 
 
 
