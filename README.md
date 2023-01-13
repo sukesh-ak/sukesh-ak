@@ -35,4 +35,4 @@ Expertise in Microsoft software stack (Ex-MSFTE) and now digging the Linux world
 |Linux Frame Buffer - LVGL|LVGL UI widgets on a Raspberry PI (Linux) display using Linux Frame Buffer|[Repo](https://github.com/sukesh-ak/Linux-LVGL-Frame-Buffer)
 
 
-[![Sukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukesh-ak&show_icons=true&theme=merko&count_private=true&card_width=400)](https://www.sukesh.me) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukesh-ak&layout=compact&theme=merko&card_width=350)](https://www.sukesh.me)
+
