@@ -20,7 +20,7 @@ Expertise in Microsoft software stack (Ex-MSFTE) and now digging the Linux world
 | Project Name   | Description  | Link 
 |:---------  |:-----------|:----------:
 |ESP32-TUX|ESP32-TUX - ESP32 / ESP32-XX Touch UX Template using LVGL to get you started|[Repo](https://github.com/sukesh-ak/ESP32-TUX)
-|ImGui-GLFW-OpenGL3|Hardware Accelerated multi-platform UI using ImGui, GLFW and OpenGL3 with cmake + vcpkg|[Repo](https://github.com/sukesh-ak/ImGui-GLFW-OpenGL3)
+|ImGui-GLFW-OpenGL3|Hardware Accelerated multi-platform UI using ImGui, GLFW and OpenGL3|[Repo](https://github.com/sukesh-ak/ImGui-GLFW-OpenGL3)
 |AutoDebug|Debugger to run Windbg Commands and also query .NET CLR Runtime data in C#|[Repo](https://github.com/sukesh-ak/AutoDebug)
 |Python SSL Webserver|Minimal Webserver with SSL support using Python|[Repo](https://github.com/sukesh-ak/pythonwsssl)
 |Torify 6.0|Connect & browse DarkWeb .onion websites using .NET 6.0 SOCKS support|[Article](https://sukesh.me/2021/08/22/how-to-browse-darkweb-using-net-6/)
