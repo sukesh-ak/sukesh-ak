@@ -1,10 +1,11 @@
 ### Hi there 👋
 I'm a Born Geek, jack of all but master of some with 3 decades+ experience in Technology.   
-Expertise in Microsoft software stack (Ex-MSFTE) and now digging the Linux world, IoT & Azure Architecture. Always excited about new challenges in Technology including but not limited to Cyber Security and UX Designs. Special interest in Digital Forensics.
+Expertise in Microsoft software stack (Ex-MSFTE), designing & building Applications on Linux with Docker, IoT & Azure Architecture. 
 
+Always excited about new challenges in Technology including but not limited to Cyber Security and UX Designs. Special interest in Digital Forensics. 
 - 🔭 Currently working on 
   - Digital Forensics for Android/iOS. 
-  - Embedded Hardware and firmware for my projects (ESPRESSIF & STM32).
+  - Embedded Hardware and firmware IOT projects (ESPRESSIF & STM32).
   - C++ with GLFW/SDL2 + OpenGL for multi-platform UI Applications.
   - Technology Consulting Projects.
 - 💬 Ask me about 
