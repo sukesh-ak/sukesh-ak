@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Polymath, with 3 decades+ experience in Technology.   
+Polymath, with 3 decades+ experience in Technology.   
 Expertise in Microsoft software stack (Ex-MSFTE), designing & building Applications on Linux with Docker, IoT & Azure Architecture. 
 
 Always excited about new challenges in Technology including but not limited to Cyber Security and UX Designs. Special interest in Digital Forensics. 
