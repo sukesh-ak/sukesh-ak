@@ -13,7 +13,16 @@ Always excited about new challenges in Technology including but not limited to C
 	- Solution Consulting including building a vision and roadmap for Business.
 	- Product Design from Software to Functional Sports Wear.
 	- Last but not least, VFX, MoCap and 3D Modeling using Blender.
-- 📫 How to reach me: https://www.sukesh.me
+
+📫 Reach out to me, if you think my expertise aligns with your project needs : https://www.sukesh.me
+
+### SPONSORING
+If you use my projects or like them, consider sponsoring me. Anything helps and encourages me to keep going.  
+See details here: https://github.com/sponsors/sukesh-ak  
+
+Your sponsorship would help me not only maintain the projects I'm involved in, but also support my other community activities and purchase hardware for testing these libraries. If you're an individual user who has enjoyed my projects or benefited from my community work, please consider donating as a sign of appreciation. If you run a business that uses my work in your products, sponsoring my development makes good business sense: it ensures that the projects your product relies on stay healthy and actively maintained.
+
+Thank you for considering supporting my work!
 
 ### PROJECT HIGHLIGHTS
 
