@@ -3,12 +3,12 @@ Polymath, with 3 decades+ experience in Technology.
 Expertise in Microsoft software stack (Ex-MSFTE), designing & building Applications on Linux with Docker, IoT & Azure Architecture. 
 
 Always excited about new challenges in Technology including but not limited to Cyber Security and UX Designs. Special interest in Digital Forensics. 
-- 🔭 Currently working on 
+🔭 Currently working on 
   - Digital Forensics for Android/iOS. 
   - Embedded Hardware and firmware IOT projects (ESPRESSIF & STM32).
   - C++ with GLFW/SDL2 + OpenGL for multi-platform UI Applications.
   - Technology Consulting Projects.
-- 💬 Ask me about 
+💬 Ask me about 
 	- Building Cloud Applications to Desktop (Linux/Windows) to IoT Device firmware.
 	- Solution Consulting including building a vision and roadmap for Business.
 	- Product Design from Software to Functional Sports Wear.
